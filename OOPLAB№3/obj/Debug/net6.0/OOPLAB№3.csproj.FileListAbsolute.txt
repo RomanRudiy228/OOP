@@ -1,0 +1,14 @@
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\bin\Debug\net6.0\OOPLAB№3.exe
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\bin\Debug\net6.0\OOPLAB№3.deps.json
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\bin\Debug\net6.0\OOPLAB№3.runtimeconfig.json
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\bin\Debug\net6.0\OOPLAB№3.dll
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\bin\Debug\net6.0\OOPLAB№3.pdb
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\OOPLAB№3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\OOPLAB№3.AssemblyInfoInputs.cache
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\OOPLAB№3.AssemblyInfo.cs
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\OOPLAB№3.csproj.CoreCompileInputs.cache
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\OOPLAB№3.dll
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\refint\OOPLAB№3.dll
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\OOPLAB№3.pdb
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\OOPLAB№3.genruntimeconfig.cache
+C:\Users\vilja\source\repos\OOPLAB№3\OOPLAB№3\obj\Debug\net6.0\ref\OOPLAB№3.dll
